@@ -1,3 +1,8 @@
+# About
+Configurations to enable developer services, NavUserPassword authentication, and session timeout settings in Business Central.
+
+<br>
+
 # Enable Developer Services
 
 #### Enable Developer Services.
